@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Mar  6 08:32:32 2019
-
-@author: Mayank
 """
 
 import cv2
